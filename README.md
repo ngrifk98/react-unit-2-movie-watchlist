@@ -51,8 +51,4 @@ This project is part of the React Unit 2 curriculum. It demonstrates fundamental
 
 NGK (Your Name)
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 Feel free to customize the content and structure to better match your project's specifics. Make sure to update the placeholders (e.g., "Your Name") with your actual information. Good luck with your project, and happy coding!
