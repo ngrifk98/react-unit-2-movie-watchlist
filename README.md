@@ -10,7 +10,6 @@ Welcome to NGK's Movie Watchlist Project! This project showcases a simple movie 
 - [Usage](#usage)
 - [Technologies](#technologies)
 - [Author](#author)
-- [License](#license)
 
 ## Overview
 
